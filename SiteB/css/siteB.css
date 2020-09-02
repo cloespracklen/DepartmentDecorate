@@ -1,1 +1,14 @@
-
+body{ 
+    background-image: url(../pics/QZ/spaceimage.jpg);
+    color:white;
+    font-size: 20x;
+    font-family:sans-serif;
+}
+a{ color:fuchsia;
+    font-size:25;
+    font-family:sans-serif;}
+h1
+{color:aquamarine;
+    font-family:serif;
+    font-size: 45;
+}

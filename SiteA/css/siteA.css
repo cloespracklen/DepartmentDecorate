@@ -1,1 +1,13 @@
-
+body{
+font-family: fantasy;
+    background-image: url("../pics/QZ/turtlepic.jpg");}
+h1 {
+    color:black;
+font-family:cursive;
+    font-size:40;}
+p{font-family:cursive;}
+a {
+    color:chartreuse;
+    font-family:cursive;
+        font-size:30;}
+    
